@@ -1,0 +1,21 @@
+{
+  "chroma": 16,
+  "lightness": 100,
+  "palette": 16,
+  "seed": 0,
+  "knownTags": {
+    "Review": 1,
+    "Rewrite": 2,
+    "Idea": 3,
+    "Editing": 4,
+    "review": 5,
+    "Content": 6,
+    "Video": 7,
+    "Reels": 8,
+    "Shorts": 9,
+    "Instagram": 10,
+    "YouTube": 11,
+    "Writing": 12
+  },
+  "_version": 2
+}

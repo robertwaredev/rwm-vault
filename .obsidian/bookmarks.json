@@ -1,0 +1,40 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1693086911908,
+      "path": "Atlas/Canvases/Canvas.canvas",
+      "title": "Dashbaord"
+    },
+    {
+      "type": "file",
+      "ctime": 1693086257880,
+      "path": "Atlas/Spaces/Scripting/Script Ideas.md",
+      "title": "Script Ideas"
+    },
+    {
+      "type": "file",
+      "ctime": 1693094180727,
+      "path": "Atlas/Spaces/Scripts.md",
+      "title": ""
+    },
+    {
+      "type": "file",
+      "ctime": 1693086352374,
+      "path": "Atlas/Spaces/Content Calendar.md",
+      "title": "Content Calendar"
+    },
+    {
+      "type": "file",
+      "ctime": 1693086376549,
+      "path": "Atlas/Notes/Music Ideas.md",
+      "title": "Music"
+    },
+    {
+      "type": "folder",
+      "ctime": 1693089345210,
+      "path": "Backend/Classes",
+      "title": "Classes"
+    }
+  ]
+}

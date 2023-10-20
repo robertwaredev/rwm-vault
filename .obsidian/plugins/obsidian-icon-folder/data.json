@@ -1,0 +1,126 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 21,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBriefcase",
+      "FasHeart",
+      "FasTableCells",
+      "LiTerminal",
+      "FasTerminal",
+      "LiSpace",
+      "LiLayoutDashboard",
+      "FasPencil",
+      "LiRectangleHorizontal",
+      "LiMousePointerClick",
+      "LiMousePointerSquareDashed",
+      "FasShapes"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
+    "iconInTitleEnabled": false
+  },
+  "Atlas": "FasCompass",
+  "Atlas/Atomic": {
+    "iconName": "FasAtom",
+    "inheritanceIcon": "FasAtom"
+  },
+  "Atlas/Journal": "FasPenNib",
+  "Atlas/Maps": {
+    "iconName": "FasMapLocationDot",
+    "inheritanceIcon": "FasMapLocationDot"
+  },
+  "Atlas/Spaces": {
+    "iconName": null,
+    "inheritanceIcon": "LiSpace"
+  },
+  "Atlas/Notes": {
+    "iconName": "FasNoteSticky",
+    "inheritanceIcon": "FasNoteSticky"
+  },
+  "Atlas/Scripts/Long Form": {
+    "iconName": null,
+    "inheritanceIcon": "FasPencil"
+  },
+  "Atlas/Scripts/Short Form": {
+    "iconName": null,
+    "inheritanceIcon": "FasPencil"
+  },
+  "Backend": "FasServer",
+  "Backend/Attachments": {
+    "iconName": "FasLink",
+    "inheritanceIcon": "FasLink"
+  },
+  "Backend/Classes": {
+    "iconName": "FasShapes",
+    "inheritanceIcon": "FasShapes"
+  },
+  "Backend/Embeds": {
+    "iconName": "LiMousePointerSquareDashed",
+    "inheritanceIcon": "LiMousePointerSquareDashed"
+  },
+  "Backend/Templates": {
+    "iconName": "FasPercent",
+    "inheritanceIcon": "FasPercent"
+  },
+  "Backend/Templates/Journal": {
+    "iconName": "FasPenNib",
+    "inheritanceIcon": "FasPenNib"
+  },
+  "Home.md": "FasHouse",
+  "Backend/Embeds/Buttons": {
+    "iconName": null,
+    "inheritanceIcon": "LiMousePointerClick"
+  },
+  "Backend/Embeds/Toolbars": {
+    "iconName": null,
+    "inheritanceIcon": "LiRectangleHorizontal"
+  },
+  "Atlas/Excalidraw": {
+    "iconName": "FasDrawPolygon",
+    "inheritanceIcon": "FasDrawPolygon"
+  },
+  "Atlas/Canvases": {
+    "iconName": "LiLayoutDashboard",
+    "inheritanceIcon": "LiLayoutDashboard"
+  },
+  "Atlas/Scripts": {
+    "iconName": "FasPencil",
+    "inheritanceIcon": "FasPencil"
+  },
+  "Backend/Embeds/Code/Heatmaps": {
+    "iconName": null,
+    "inheritanceIcon": "FasTableCells"
+  },
+  "Backend/Buttons": {
+    "iconName": "LiMousePointerClick",
+    "inheritanceIcon": "LiMousePointerClick"
+  },
+  "Backend/Toolbars": {
+    "iconName": "LiRectangleHorizontal",
+    "inheritanceIcon": "LiRectangleHorizontal"
+  },
+  "Backend/Code": {
+    "iconName": "LiTerminal",
+    "inheritanceIcon": "LiTerminal"
+  },
+  "Atlas/Notes/Health": {
+    "iconName": "FasHeart",
+    "inheritanceIcon": "FasHeart"
+  },
+  "Atlas/Notes/Freelance": {
+    "iconName": "FasBriefcase",
+    "inheritanceIcon": "FasBriefcase"
+  }
+}

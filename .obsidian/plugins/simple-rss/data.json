@@ -1,0 +1,20 @@
+{
+  "defaultPath": "Atlas/RSS",
+  "defaultTemplate": "---\nClass: RSS\n---\n\nSource:: {{item.link}}\nPublished:: {{item.pubDate}}\n\n{{item.description}}",
+  "autoPull": true,
+  "timeInterval": 5,
+  "feeds": [
+    {
+      "name": "KVR Audio Top Stories",
+      "url": "https://www.kvraudio.com/rss/kvr_news_top.rss",
+      "title": "{{item.title}}",
+      "path": "Atlas/RSS"
+    },
+    {
+      "name": "FabFilter News",
+      "url": "https://www.fabfilter.com/rss/news",
+      "title": "{{item.title}}",
+      "path": "Atlas/RSS"
+    }
+  ]
+}

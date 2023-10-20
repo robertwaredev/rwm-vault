@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Dashboard",
+      "path": "Dashboard.md"
+    },
+    {
+      "type": "file",
+      "title": "Life",
+      "path": "Maps/Areas/Life.md"
+    },
+    {
+      "type": "file",
+      "title": "Music",
+      "path": "Maps/Areas/Music.md"
+    },
+    {
+      "type": "file",
+      "title": "Work",
+      "path": "Maps/Areas/Work.md"
+    },
+    {
+      "type": "file",
+      "title": "Ideas",
+      "path": "Dashboards/Ideas.md"
+    },
+    {
+      "type": "file",
+      "title": "000 Home",
+      "path": "🏠 Home.md"
+    },
+    {
+      "type": "file",
+      "title": "Atlas",
+      "path": "Atlas/Atlas.md"
+    }
+  ]
+}

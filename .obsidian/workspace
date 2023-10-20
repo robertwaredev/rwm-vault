@@ -1,0 +1,288 @@
+{
+  "main": {
+    "id": "bbc4da45df2a7bb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f65196886e43ba6",
+        "type": "leaf",
+        "pane-relief:history-v1": {
+          "pos": 0,
+          "stack": [
+            {
+              "leaf": "2f65196886e43ba6",
+              "group": null,
+              "state": "{\"type\":\"empty\",\"state\":{}}",
+              "eState": "{}"
+            }
+          ]
+        },
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dbf687ca905f65aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e5a81d47f4d540",
+        "type": "tabs",
+        "dimension": 48.48484848484848,
+        "children": [
+          {
+            "id": "c536890ca4d709f4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4ad52b941adcdbc1",
+        "type": "tabs",
+        "dimension": 51.51515151515152,
+        "children": [
+          {
+            "id": "a6df160475f7218f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "1803a615a6104ec5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a81a9f9e858174fb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9afae24d2121e2ae",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 414.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f2f7a521a56dfa36",
+    "type": "split",
+    "children": [
+      {
+        "id": "485c9c8bee5ab980",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9cf550851bb78f44",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3cfaa0141c106cd7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "6581bc0fca8bad9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a665020b76d1e00",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [
+                    {
+                      "query": "tag:#⚠️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16711680
+                      }
+                    },
+                    {
+                      "query": "tag:#⚡",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16755200
+                      }
+                    },
+                    {
+                      "query": "tag:#✏️",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14810880
+                      }
+                    },
+                    {
+                      "query": "tag:#Atomic",
+                      "color": {
+                        "a": 1,
+                        "rgb": 16777215
+                      }
+                    },
+                    {
+                      "query": "tag:#Maps",
+                      "color": {
+                        "a": 1,
+                        "rgb": 10879231
+                      }
+                    }
+                  ],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.38434223745057905,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "9c5b8fa0de92ecb9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "37fcca1ba3731911",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": []
+            },
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 423.5,
+    "collapsed": true
+  },
+  "active": "2f65196886e43ba6",
+  "lastOpenFiles": [
+    "Home.md",
+    "Spaces/Journal/2022/2022-10/2022-10.md",
+    "Spaces/Journal/2022/2022-09/2022-09.md",
+    "Spaces/Journal/2022/2022-09/2022-09-26.md",
+    "Spaces/Journal/2022/2022-10/2022-10-05.md",
+    "Atomic/Ideas/Compression.md",
+    "Atomic/Ideas/Modulation Effects.md",
+    "Atlas/Maps/Music Production.md",
+    "Atomic/Ideas/Saturation.md",
+    "Atomic/Ideas/Transient Shaping.md"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "overrideAppearance": true,
+  "commentStyle": "obsidian",
+  "customCommentStart": "<!--",
+  "customCommentEnd": "-->",
+  "dropCursor": false,
+  "appearance": {
+    "showBackground": false,
+    "backgroundColor": "#191919",
+    "color": "#565E67",
+    "italic": true,
+    "weight": 400,
+    "showOutline": false,
+    "outlineColor": "#FFFFFF"
+  },
+  "customLanguages": []
+}

@@ -1,0 +1,17 @@
+/* remove bullet for the "main points (file name) and shift
+   the list to the left a bit (since there's no more bullet */
+   ul.dataview.list-view-ul {
+	list-style: none;
+	padding-left: 0;
+}
+
+/* put back the bullet on the "subpoints" since in your case
+   they are missing. but note that if a theme remove this, you
+   might need to invoke priority by putting !important like this
+   list-style: disc !important; */
+
+/*
+   ul.dataview.dataview-ul.dataview-result-list-ul {
+	list-style: disc;
+}
+*/

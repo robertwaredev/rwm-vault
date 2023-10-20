@@ -1,0 +1,22 @@
+{
+  "accentColor": "#e99f10",
+  "cssTheme": "Minimal",
+  "showViewHeader": true,
+  "baseFontSize": 16,
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "No Bullets In DV Queries",
+    "custom-admonitions.0454f2",
+    "embed-adjustments",
+    "custom-admonitions.d599a0",
+    "heatmap-settings",
+    "no-bullets-in-dv-queries",
+    "dataview-snippets"
+  ],
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "Cascadia Code,Bahnschrift,Noto Sans",
+  "nativeMenus": false
+}

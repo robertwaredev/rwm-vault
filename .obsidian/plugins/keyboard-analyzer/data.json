@@ -1,0 +1,16 @@
+{
+  "showStatusBarItem": true,
+  "filterSettings": {
+    "FeaturedFirst": false,
+    "StrictSearch": false,
+    "HighlightCustom": false,
+    "HighlightDuplicates": false,
+    "DisplayWOhotkeys": false,
+    "DisplayIDs": false
+  },
+  "featuredCommandIDs": [
+    "app:toggle-left-sidebar",
+    "app:toggle-right-sidebar",
+    "auto-card-link:auto-card-link-enhance-selected-url"
+  ]
+}

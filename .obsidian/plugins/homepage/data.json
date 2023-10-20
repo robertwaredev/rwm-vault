@@ -1,0 +1,21 @@
+{
+  "version": 3,
+  "homepages": {
+    "Main Homepage": {
+      "version": 2,
+      "hasRibbonIcon": true,
+      "openMode": "Replace last note",
+      "view": "Reading view",
+      "refreshDataview": false,
+      "value": "Home",
+      "kind": "File",
+      "openOnStartup": true,
+      "commands": [],
+      "openWhenEmpty": true,
+      "manualOpenMode": "Replace last note",
+      "autoCreate": true,
+      "alwaysApply": true
+    }
+  },
+  "separateMobile": false
+}

@@ -1,0 +1,30 @@
+{
+  "openNewTab": false,
+  "openFileIn": "activeTab",
+  "deleteCommandWhenFileIsDeleted": true,
+  "updateCommandsOnRename": true,
+  "commands": [
+    {
+      "id": "1991e4b8-e328-4877-9904-7375f7a9e2d0",
+      "name": "",
+      "filePath": "",
+      "openFileIn": "activeTab",
+      "command": {
+        "id": "",
+        "name": ""
+      }
+    }
+  ],
+  "customVariables": [
+    {
+      "name": "date",
+      "value": "{{d:YYYY-MM-DD}}",
+      "type": "string"
+    },
+    {
+      "name": "time",
+      "value": "{{d:HH:mm:ss}}",
+      "type": "string"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "groups": [
+    {
+      "loadAtStartup": true,
+      "disableOnStartup": false,
+      "delay": 2,
+      "id": "pgtest",
+      "name": "test",
+      "plugins": [
+        {
+          "id": "dataview",
+          "name": "Dataview"
+        },
+        {
+          "id": "metadata-menu",
+          "name": "Metadata Menu"
+        },
+        {
+          "id": "obsidian-linter",
+          "name": "Linter"
+        },
+        {
+          "id": "templater-obsidian",
+          "name": "Templater"
+        }
+      ],
+      "groupIds": [],
+      "generateCommands": false
+    }
+  ],
+  "generateCommands": true,
+  "showNoticeOnGroupLoad": "none",
+  "devLogs": false,
+  "devices": [
+    "Laptop"
+  ],
+  "doLoadSynchronously": true,
+  "showStatusbarIcon": "None"
+}

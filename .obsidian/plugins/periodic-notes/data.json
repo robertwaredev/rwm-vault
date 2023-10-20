@@ -1,0 +1,34 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "Backend/Templates/Journal/Daily Journal Template.md",
+    "folder": "Atlas/Journal/2023",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "Backend/Templates/Journal/Weekly Journal Template.md",
+    "folder": "Atlas/Journal/2023",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Backend/Templates/Journal/Monthly Journal Template.md",
+    "folder": "Atlas/Journal/2023",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  },
+  "yearly": {
+    "format": "",
+    "template": "Backend/Templates/Journal/Yearly Journal Template.md",
+    "folder": "Atlas/Journal/2023",
+    "enabled": true
+  }
+}
