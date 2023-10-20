@@ -4,8 +4,8 @@
   "defaultViewMode": "preview",
   "livePreview": true,
   "userIgnoreFilters": [
-    "README.md",
-    "Backend/"
+    "Backend/",
+    "README.MD"
   ],
   "spellcheck": true,
   "trashOption": "local",

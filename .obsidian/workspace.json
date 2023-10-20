@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f2f7a521a56dfa36",
@@ -163,8 +162,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f351e9d3d901c847",
+  "active": "a6df160475f7218f",
   "lastOpenFiles": [
+    "README.md",
     "Home.md",
     "Atlas/Scripts/Tubular Bells Remix.md",
     "Atlas/Journal/2023/2023-10-19.md",
@@ -190,7 +190,6 @@
     "Atlas/Journal/2023/2023-10-06.md",
     "Atlas/Journal/2022/2022-10-05.md",
     "Backend/Templates/Journal/Daily Journal Template.md",
-    "Backend/Templates/Journal/Monthly Journal Template.md",
     "Backend/Attachments/Pasted image 20230603154619.png",
     "Backend/Embeds/Code/Heatmaps",
     "Backend/Code",
