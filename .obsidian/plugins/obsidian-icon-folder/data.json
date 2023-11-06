@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBoxesStacked",
+      "LiSpeech",
       "FasBriefcase",
       "FasHeart",
       "FasTableCells",
@@ -122,5 +124,14 @@
   "Atlas/Notes/Freelance": {
     "iconName": "FasBriefcase",
     "inheritanceIcon": "FasBriefcase"
+  },
+  "Atlas/Notes/Interviews": {
+    "iconName": "LiSpeech",
+    "inheritanceIcon": "LiSpeech"
+  },
+  "Atlas/Notes/Interviews/Jay Clouse x Jenny Hoyos Interview.md": "LiSpeech",
+  "Backend/Backups": {
+    "iconName": "FasBoxesStacked",
+    "inheritanceIcon": "FasBoxesStacked"
   }
 }

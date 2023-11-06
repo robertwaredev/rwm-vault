@@ -62,3 +62,19 @@ Modified: 2023-10-06
 - poutine routine
 - guayaki bukkake
 - baklava balaclava
+
+# Bitwig Template
+
+## Upgrade to Producer Edition
+
+- E-drum collection
+- See if stock Ring Mod can do ring mod sidechain
+- Stock Oscilloscope
+- Cool Rotary thing?
+- Transient Control
+- MIDI??? What is this?
+- Humanize & Harmonize
+- Chain / containers / layers / splits / receivers
+- Macro-4
+- Ramp
+- 

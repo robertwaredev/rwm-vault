@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3aade4d9c2299a9",
+        "id": "18512d9acd105795",
         "type": "tabs",
         "children": [
           {
-            "id": "f351e9d3d901c847",
+            "id": "918007b72e3acd0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"Created\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f2f7a521a56dfa36",
@@ -101,6 +102,14 @@
         "id": "490e1580dc4fc7c9",
         "type": "tabs",
         "children": [
+          {
+            "id": "18064cefa9a7d425",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
           {
             "id": "94f9741d8d8db04e",
             "type": "leaf",
@@ -139,14 +148,20 @@
                 "file": "Home.md"
               }
             }
+          },
+          {
+            "id": "dfd10bc0a1f3ce88",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.5,
-    "collapsed": true
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,39 +172,40 @@
       "graph:Open graph view": true,
       "workspaces:Manage workspace layouts": true,
       "obsidian-day-planner:Timeline": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6df160475f7218f",
+  "active": "918007b72e3acd0f",
   "lastOpenFiles": [
-    "README.md",
     "Home.md",
-    "Atlas/Scripts/Tubular Bells Remix.md",
-    "Atlas/Journal/2023/2023-10-19.md",
-    "Atlas/Journal/2023/2023-10-18.md",
-    "Atlas/Journal/2023/2023-10-16.md",
-    "Atlas/Notes/Jay Clouse x Jenny Hoyos Interview.md",
-    "Atlas/Notes/New Note.md",
-    "Atlas/Journal/2023/2023-10-15.md",
-    "Atlas/Journal/2023/2023-10-14.md",
-    "Atlas/Journal/2023/2023-10-17.md",
-    "Atlas/Journal/2023/2023-10-13.md",
-    "Atlas/Journal/2023/2023-10-11.md",
-    "Atlas/Journal/2023/2023-10-12.md",
-    "Atlas/Journal/2023/2023-10-10.md",
-    "Atlas/Journal/2023/2023-10-09.md",
-    "Atlas/Journal/2023/2023-10-08.md",
-    "2023-10-12.md",
-    "2023-10-08.md",
-    "Atlas/Journal/2023/2023-10-07.md",
+    "Backend/Templates/Script.md",
     "Atlas/Scripts/The Most Important Tool for Creative People.md",
-    "Atlas/Journal/2022/2022-09-17.md",
-    "Atlas/Journal/2022/2022-09-18.md",
-    "Atlas/Journal/2023/2023-10-06.md",
-    "Atlas/Journal/2022/2022-10-05.md",
-    "Backend/Templates/Journal/Daily Journal Template.md",
+    "Atlas/Notes/Interviews/Jay Clouse x Jenny Hoyos Interview.md",
+    "Atlas/Journal/2023/2023-11-05.md",
+    "Atlas/Journal/2023/2023-11-04.md",
+    "Atlas/Scripts/The Biggest Secret to Becoming a Genius Music Producer.md",
+    "Atlas/Journal/2023/2023-11-02.md",
+    "Atlas/Scripts/Tubular Bells Remix.md",
+    "Backend/Embeds/Maps.md",
+    "Atlas/Notes/Music Ideas.md",
+    "Atlas/Journal/2022/2022-09-15.md",
+    "Atlas/Notes/Working Notes.md",
+    "Atlas/Notes/New Note.md",
+    "Atlas/Notes/New Note1.md",
+    "Atlas/Notes/Interviews",
+    "Atlas/Journal/2023/2023-10-31.md",
+    "Atlas/Journal/2023/2023-10-30.md",
+    "Atlas/Journal/2023/2023-10-27.md",
+    "Atlas/Journal/2023/2023-10-26.md",
+    "Atlas/Journal/2023/2023-10-25.md",
+    "Atlas/Scripts/Get Shit Done.md",
+    "Atlas/Journal/2023/2023-10-24.md",
+    "Atlas/Journal/2023/2023-10-23.md",
+    "Atlas/Journal/2023/2023-10-22.md",
+    "Atlas/Journal/2023/2023-10-20.md",
+    "README.md",
     "Backend/Attachments/Pasted image 20230603154619.png",
     "Backend/Embeds/Code/Heatmaps",
     "Backend/Code",
@@ -208,7 +224,6 @@
     "Atlas/Excalidraw/Untitled.canvas",
     "Backend/Attachments/Pasted image 20230603154645.png",
     "Backend/Templates/Journal",
-    "Backend/Buttons",
     "Untitled.canvas",
     "Canvases/Personal.canvas",
     "Canvases/Lex Fridman.canvas",

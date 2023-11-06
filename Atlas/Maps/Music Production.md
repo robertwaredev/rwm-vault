@@ -28,7 +28,7 @@ Modified: 2023-10-05
 > [[Modulation Effects]]
 > [[Specialty Plugins]]
 > [[Stereo Image]]
-> [[Pitch Correction]] #Editing
+> [[Pitch Correction]] #editing
 
 # 🧠 Systems
 

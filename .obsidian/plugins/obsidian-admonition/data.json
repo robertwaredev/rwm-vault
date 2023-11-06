@@ -5,11 +5,12 @@
       "color": "242, 242, 242",
       "icon": {
         "type": "obsidian",
-        "name": "lucide-circle"
+        "name": "line-horizontal"
       },
       "command": true,
       "injectColor": true,
-      "noTitle": false
+      "noTitle": false,
+      "copy": false
     },
     "date": {
       "type": "date",

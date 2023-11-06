@@ -15,7 +15,22 @@
     "Shorts": 9,
     "Instagram": 10,
     "YouTube": 11,
-    "Writing": 12
+    "Writing": 12,
+    "Aside": 13,
+    "Explain": 14,
+    "needsjoke": 15,
+    "fromhere": 16,
+    "startfromhere": 17,
+    "scoobydoo": 18,
+    "writing": 19,
+    "idea": 20,
+    "content": 21,
+    "editing": 22,
+    "instagram": 23,
+    "reels": 24,
+    "shorts": 25,
+    "video": 26,
+    "youtube": 27
   },
   "_version": 2
 }

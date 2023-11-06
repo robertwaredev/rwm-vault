@@ -6,7 +6,7 @@ Status: Draft
 Topic:
   - "[[Music Production]]"
 Created: 2023-10-04
-Modified: 2023-10-11
+Modified: 2023-11-01
 ---
 
 # Notes
@@ -67,11 +67,11 @@ But *your* music *sucks* because *you're* struggling for context.
 
 > *Crouching down, camera on ground.*
 
-Inspiration is completely fucking useless...
+Inspiration is completely fucking useless…
 
 > *Angle switch, *
 
-...*unless* you extract little bits o' knowledge along the way and *make sure* you can reuse them later.
+…*unless* you extract little bits o' knowledge along the way and *make sure* you can reuse them later.
 
 > *Angrily, pointing at background*
 
@@ -85,7 +85,7 @@ Solve the easiest problem, actually.
 
 If there's an easier way, then *do that.* Straight away. Then *keep doing that.*
 
-The moment your flow state breaks is the moment your inspiration surpasses your capability to create within the limitations of your knowledge.
+The moment your flow state fizzles out is the moment your inspiration has surpassed your ability to create due to the limitations of your knowledge.
 
 > *Dismissively, be a man attitude.*
 

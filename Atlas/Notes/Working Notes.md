@@ -1,8 +1,7 @@
 ---
 Class: Note
 Editing: true
-Topic:
-  - 
+Topic: []
 Created: 2023-09-22
-Modified: 2023-10-05
+Modified: 2023-11-01
 ---

@@ -1,10 +1,14 @@
 ---
 Class: Map 
 Created: 2023-10-04
-Modified: 2023-10-11
+Modified: 2023-11-02
 ---
 
 ![[Navbar]]
+
+```ad-clean
+title: Stop living on autopilot.
+```
 
 ```dataviewjs
 dv.span("# Journal")
@@ -30,8 +34,7 @@ renderHeatmapCalendar(this.container, calendarData)
 
 # To Do
 
-- [ ] Talk to Eli about Modern Market
-- [ ] Clean Hard Drive
+- [ ] YAWN - yet another white noise
 
 # Recent
 

@@ -8,6 +8,8 @@ Topic:
 
 ![[Navbar]]
 
+🅰️ `Visual Aid` - 🎞️ `Video` - 🔊 `Sound Clip` - 🎦 `Shot Comp`
+
 # Notes
 
 ## Premise

@@ -5,9 +5,11 @@ Pinned: true
 Status: Idea
 Topic:
   - "[[Productivity]]"
-Created: Saturday, September 3rd 2022, 3:31:34 pm
-Modified: Thursday, October 5th 2023, 2:40:27 pm
+Created: 2023-10-04
+Modified: 2023-10-25
 ---
+
+![[Navbar]]
 
 # The Premise
 
