@@ -1,12 +1,12 @@
 ---
-Class: Script
-Type: Short Form
-Pinned: true
-Status: Draft
-Topic:
+class: Script
+type: Short Form
+pinned: true
+status: Draft
+topic:
   - "[[Music Production]]"
-Created: 2023-10-04
-Modified: 2023-11-01
+created: 2023-10-04
+modified: 2023-11-06
 ---
 
 # Notes

@@ -8,4 +8,4 @@ extends:
 version: 1
 ---
 
-Editing:: {"type":"Boolean","options":{},"command":{"id":"insert__presetField__Editing","icon":"pencil","label":"Insert Editing field"}}
+editing:: {"type":"Boolean","options":{},"command":{"id":"insert__Map__editing","icon":"pencil","label":"Insert editing field"}}

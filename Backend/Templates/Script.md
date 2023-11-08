@@ -1,9 +1,9 @@
 ---
-Class: Script
-Type: 
-Pinned: false
-Status: Idea
-Topic: 
+class: Script
+type: 
+pinned: false
+status: Idea
+topic: 
 ---
 
 ![[Navbar]]

@@ -18,11 +18,11 @@
       "default-array-style": "multi-line",
       "default-array-keys": true,
       "force-single-line-array-style": "",
-      "force-multi-line-array-style": "Topic"
+      "force-multi-line-array-style": "topic"
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "Class:"
+      "text-to-insert": ""
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -31,26 +31,26 @@
     },
     "remove-yaml-keys": {
       "enabled": true,
-      "yaml-keys-to-remove": "date modified\ndate created\naliases\ntags"
+      "yaml-keys-to-remove": "Class\nPrev\nNext\nType\nArea\nPinned\nEditing\nStatus\nType\nTopic\nSource\nPublished\nTags\nAliases\nCreated\nModified"
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "Class\nPrev\nNext\nType\nArea\nPinned\nEditing\nStatus\nType\nTopic\nSource\nPublished\nTags\nAliases\nCreated\nModified",
+      "yaml-key-priority-sort-order": "class\nprev\nnext\ntype\narea\npinned\npublished\nediting\nstatus\ntype\ntopic\nsource\ntags\naliases\ncreated\nmodified",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
       "enabled": true,
       "date-created": true,
-      "date-created-key": "Created",
+      "date-created-key": "created",
       "force-retention-of-create-value": false,
       "date-modified": true,
-      "date-modified-key": "Modified",
+      "date-modified-key": "modified",
       "format": "YYYY-MM-DD"
     },
     "yaml-title": {
       "enabled": false,
-      "title-key": "Title",
+      "title-key": "title",
       "mode": "filename"
     },
     "yaml-title-alias": {

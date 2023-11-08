@@ -1,7 +1,6 @@
 ---
-Class: Map 
-Created: 2023-10-04
-Modified: 2023-11-02
+created: 2023-10-04
+modified: 2023-11-06
 ---
 
 ![[Navbar]]
@@ -46,7 +45,7 @@ dv.table(
 	["Scripts"],
 	await Promise.all(dv.pages()
 	.where(p => !p.file.path.includes("Backend"))
-	.where(p => p.Pinned == true)
+	.where(p => p.pinned == true)
 	.sort(p => p.file.mtime, 'desc')
 	.limit(10)
 	.map(async p => [

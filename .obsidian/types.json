@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Topic": "multitext",
-    "Published": "datetime"
+    "Published": "checkbox",
+    "publish": "checkbox"
   }
 }

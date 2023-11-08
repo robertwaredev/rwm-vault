@@ -1,0 +1,90 @@
+{
+  "github": {
+    "user": "robertwaremusic",
+    "repo": "scripts",
+    "branch": "main",
+    "automaticallyMergePR": true,
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
+    "api": {
+      "tiersForApi": "Github Free/Pro/Team (default)",
+      "hostname": ""
+    },
+    "workflow": {
+      "commitMessage": "[RWM] Merge",
+      "name": ""
+    },
+    "otherRepo": [],
+    "verifiedRepo": true,
+    "rateLimit": 4989
+  },
+  "upload": {
+    "behavior": "fixed",
+    "defaultName": "docs",
+    "rootFolder": "",
+    "yamlFolderKey": "",
+    "frontmatterTitle": {
+      "enable": false,
+      "key": "title"
+    },
+    "replaceTitle": [],
+    "replacePath": [],
+    "autoclean": {
+      "enable": true,
+      "excluded": []
+    },
+    "folderNote": {
+      "enable": false,
+      "rename": "index.md"
+    },
+    "metadataExtractorPath": ""
+  },
+  "conversion": {
+    "hardbreak": false,
+    "dataview": true,
+    "censorText": [],
+    "tags": {
+      "inline": false,
+      "exclude": [],
+      "fields": [
+        "topic"
+      ]
+    },
+    "links": {
+      "internal": true,
+      "unshared": true,
+      "wiki": true,
+      "slugify": false
+    }
+  },
+  "embed": {
+    "attachments": true,
+    "forcePushAttachments": [],
+    "keySendFile": [],
+    "notes": true,
+    "folder": "attachments",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->",
+    "bake": {
+      "textBefore": "",
+      "textAfter": ""
+    }
+  },
+  "plugin": {
+    "shareKey": "published",
+    "fileMenu": true,
+    "editorMenu": true,
+    "excludedFolder": [
+      "Backend"
+    ],
+    "copyLink": {
+      "enable": false,
+      "links": "https://robertwaremusic.github.io/articles/",
+      "removePart": [],
+      "addCmd": false
+    },
+    "noticeError": false,
+    "displayModalRepoEditing": false,
+    "migrated": true
+  },
+  "tabsID": "github-configuration"
+}

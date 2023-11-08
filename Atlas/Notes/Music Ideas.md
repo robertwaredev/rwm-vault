@@ -1,8 +1,8 @@
 ---
-Class: Space
-Area: Music
-Created: 2023-09-22
-Modified: 2023-10-06
+class: Space
+area: Music
+created: 2023-09-22
+modified: 2023-11-06
 ---
 
 ![[Navbar]]
@@ -77,4 +77,3 @@ Modified: 2023-10-06
 - Chain / containers / layers / splits / receivers
 - Macro-4
 - Ramp
-- 

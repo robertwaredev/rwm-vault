@@ -8,4 +8,4 @@ extends:
 version: 1
 ---
 
-Area:: {"type":"Select","options":{"valuesList":{"1":"Music","2":"Scripting"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}
+area:: {"type":"Select","options":{"valuesList":{"1":"Music","2":"Scripting"},"sourceType":"ValuesList","valuesListNotePath":"","valuesFromDVQuery":""}}

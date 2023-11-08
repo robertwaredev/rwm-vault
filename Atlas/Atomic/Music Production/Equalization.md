@@ -1,13 +1,13 @@
 ---
-Class: Note
-Editing: false
-Topic:
+class: Note
+editing: false
+topic:
   - "[[Music Production]]"
-Aliases:
+aliases:
   - Equalizer
   - EQ
-Created: 2023-09-22
-Modified: 2023-10-05
+created: 2023-09-22
+modified: 2023-11-06
 ---
 
 > [!INFO] What is EQ?

@@ -1,7 +1,7 @@
 ---
-Class: Note
-Editing: true
-Topic: 
+class: Note
+editing: true
+topic: 
 ---
 
 ![[Navbar]]

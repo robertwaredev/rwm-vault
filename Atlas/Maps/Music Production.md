@@ -1,8 +1,6 @@
 ---
-Class: Map
-Editing: true
-Created: 2023-09-22
-Modified: 2023-10-05
+created: 2023-09-22
+modified: 2023-11-08
 ---
 
 # ⚙️ Setup
@@ -28,7 +26,7 @@ Modified: 2023-10-05
 > [[Modulation Effects]]
 > [[Specialty Plugins]]
 > [[Stereo Image]]
-> [[Pitch Correction]] #editing
+> [[Pitch Correction]] #fromhere
 
 # 🧠 Systems
 

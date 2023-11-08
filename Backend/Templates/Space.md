@@ -1,6 +1,6 @@
 ---
-Class: Space
-Area: 
+class: Space
+area: 
 ---
 
 ![[Navbar]]

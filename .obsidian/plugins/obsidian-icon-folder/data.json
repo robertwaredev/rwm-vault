@@ -31,7 +31,8 @@
     },
     "iconInTabsEnabled": true,
     "iconsBackgroundCheckEnabled": false,
-    "iconInTitleEnabled": false
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false
   },
   "Atlas": "FasCompass",
   "Atlas/Atomic": {

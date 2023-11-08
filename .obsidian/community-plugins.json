@@ -48,5 +48,6 @@
   "heatmap-calendar",
   "css-editor",
   "better-comment-toggle",
-  "obsidian-git"
+  "obsidian-git",
+  "obsidian-mkdocs-publisher"
 ]
